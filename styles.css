@@ -81,10 +81,12 @@ body {
     background-color: rgb(60 207 172);
     text-align: center;
     border-radius: 10px;
+    box-shadow: 1.95px 1.95px 2.6px rgba(0,0,0,.15)
 }
 
 .texto-esquerda a:hover{
     background-color: rgb(16, 139, 111);
+    transform: translateY(-0.10rem);
 }
 
 .imagem-direita {
